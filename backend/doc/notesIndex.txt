@@ -1,0 +1,15 @@
+// routes.post("/users", (request, response) => {
+//   // const params = request.query; //acessa todos os parametros.
+//   // const params = request.params; // acessa um parametro especifico.
+//   const body = request.body; // criar ou altera
+//   console.log(body);
+//   /**
+//    * req: Guarda todos os dados que vem da nossa requisção
+//    * resp: Retorna uma resposta ao usuario.
+//    */
+//   //   return resp.send("hello world");
+//   return response.json({
+//     evento: "semana OminiStack 11.0",
+//     aluno: "william torres"
+//   });
+// }); //rota padrão

@@ -1,0 +1,12 @@
+npx knex migrate:latest - fas a migrações.
+npx knex migrate>make - cria a migração.
+
+/**
+ * knexjs
+ * migrations: cria as tabelas e mantem um historico das tabales no banco.
+ * criadas , alteradas, campos, ou seja sabemos quando um tabela foi criada
+ * ,alteradas etc.
+
+ */
+   git config --global user.email "wtddssoft@gmail.com"
+
